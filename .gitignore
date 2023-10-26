@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 node_modules
 dev.js
+=======
+dev.js
+.env.development
+.env.production
+>>>>>>> a4bdd68e (hid stripe production and stripe devlopment keys)
