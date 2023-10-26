@@ -31,8 +31,11 @@ const Landing = () => {
         <p style={paragraphStyle}>Get started in three easy steps:</p>
         <ol style={{ textAlign: 'left', margin: '0 auto', maxWidth: '400px' }}>
           <li style={paragraphStyle}>Sign up for an account.</li>
+          <li style={paragraphStyle}>Click add Credits</li>
+          <li style={paragraphStyle}>Use "4242-4242-4242-4242" for the credit card number, any future date for the expiration date, and any 3-4 digit number for the CVC.</li>
           <li style={paragraphStyle}>Create a survey.</li>
           <li style={paragraphStyle}>Collect and analyze feedback.</li>
+          <li style={paragraphStyle}>Congrats you are now a proud member of What Did I Do Wrong?</li>
         </ol>
         <h2 style={headingStyle}>How I Created It</h2>
         <p style={paragraphStyle}>
