@@ -9,6 +9,6 @@ There is two server concurrently running the node and the react server.
 # quickstart
 -sign in with google
 -add credits 
--when adding credits, use fake credit card number (required) input 4242-4242-4242-4242  for the expiration date use any future date and a random 3 digit code for cvs
+-when adding credits, use "4242-4242-4242-4242" for the credit card number, any future date for the expiration date, and any 3-4 digit number for the CVC.
 
 once the credits have been added you now have the funds to send emails. 
