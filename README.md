@@ -1,4 +1,4 @@
-# what-did-i-do-wrong
+
 Live Website View: 
 https://hidden-ridge-03010-2e2246d75af4.herokuapp.com/
 
@@ -27,7 +27,19 @@ once the credits have been added you now have the funds to send emails.
 - [Troubleshooting](#troubleshooting)
 
 ## Overview
-This project, WDIDW (What Do I Do With), is designed to [briefly describe the project's purpose and goals].
+# What Did I Do Wrong? - Survey Application
+
+Welcome to **What Did I Do Wrong?**, a powerful survey application designed to provide business owners and users with a streamlined and customizable email survey service. With **What Did I Do Wrong?**, you can effortlessly gather instant feedback from your customers or email list, enabling you to make informed decisions and improve your services. 
+
+## Key Features
+
+- **Customized Surveys**: Tailor your surveys to match your unique business needs, allowing you to collect specific and actionable feedback.
+
+- **Data Retention**: Every survey response is securely saved and organized, ensuring you have a comprehensive record of customer insights over time.
+
+- **Easy Payment Integration**: Seamlessly integrate payment processing, enabling you to access the full range of survey features upon successful payment.
+
+**What Did I Do Wrong?** simplifies the process of collecting and managing customer feedback, whether you're a small business owner or an individual looking to gain valuable insights. Start using **What Did I Do Wrong?** today and unlock the potential for growth and improvement in your services.
 
 ## Technologies Used
 The project utilizes several technologies:
