@@ -73,4 +73,3 @@ The code is capable of running in both development and production environments.
 - In case you encounter errors, consider removing ad blockers or other potential issues.
 - You can also use `ngrok http 5001` for local development.
 
-Feel free to further elaborate on each section and provide any necessary details. This README will serve as a helpful guide for anyone interested in your project.
