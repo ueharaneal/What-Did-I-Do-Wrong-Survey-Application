@@ -16,6 +16,9 @@ class Header extends Component {
         );
       default:
         return [
+          <li key="4">
+            <Link to="/surveys/new">Create Survey</Link>
+          </li>,
           <li key="1">
             <Payments />
           </li>,
@@ -28,6 +31,7 @@ class Header extends Component {
         ];
     }
   }
+  
   render() {
     return (
       <nav>
@@ -35,7 +39,6 @@ class Header extends Component {
           <Link to={this.props.auth ? "/" : "/"} className="left brand-logo">
             WDIDW
           </Link>
-
           <ul className="right">{this.renderContent()}</ul>
         </div>
       </nav>
