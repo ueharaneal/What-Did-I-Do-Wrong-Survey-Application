@@ -57,7 +57,32 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 
 
 ## Getting Started
-[Provide instructions or links for users to get started with your project, e.g., installation and setup steps.]
+**Sign in using Google:**
+   - To begin, sign in to your account using your Google credentials.
+   - If you don't have an account, you can create one or sign in with an existing Google account.
+
+2. **Add Credits:**
+   - In [Your Project Name], credits are required to send emails and create surveys.
+   - You can acquire credits by purchasing them. Use the following credit card information for testing:
+     - Credit Card Number: 4242-4242-4242-4242
+     - Future Expiration Date
+     - 3-Digit CVC
+
+3. **Create Surveys:**
+   - Once you have sufficient credits, you can create surveys by following these steps:
+     - Customize your survey and add your prompts.
+     - Specify the recipients you want to send the survey to.
+
+4. **Send Surveys:**
+   - After creating a survey, click the "Send" button.
+   - [Your Project Name] will send the survey to the recipients.
+
+5. **Collect Responses:**
+   - Recipients will receive the survey and can respond with "yes" or "no" to your customized prompts.
+   - All survey responses will be collected and saved for your review.
+
+6. **View Summary:**
+   - Navigate to the summary page to see an overview of survey responses and data.
 
 ## Development Mode
 - In development mode, the Express server listens on port 5001.
@@ -76,8 +101,6 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 - We implement true/false component-level states to toggle routing visibility for components like SurveyFormReview.
 - We also learned about persistent form values and how to manage form values.
 
-## Web Hooks and Local Environment
-- We use feedback with web hooks and leverage the local tunnel API for handling web hooks in our local development environment.
 
 ## MongoDB and Data Handling
 - We have control over which documents to include or exclude in MongoDB.
