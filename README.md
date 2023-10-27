@@ -52,38 +52,6 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 - **SendGrid**: A cloud-based email delivery service to send survey emails.
 - **Materialize**: A responsive front-end framework for styling web applications.
 
-## Installation
-
-Provide instructions on how to install and run your project. Include any prerequisites or dependencies that need to be installed.
-
-## Usage
-
-Explain how to use your application or any special considerations for users. Include screenshots or examples if applicable.
-
-## Development
-
-If your project is open-source or you want to guide other developers, you can provide instructions on how to set up the development environment and contribute to the project.
-
-## License
-
-Indicate the license under which your project is released. For example, if it's open-source, you can use the MIT License, Apache License, or another license of your choice.
-
-## Contributors
-
-Mention the contributors or authors of the project, and how others can get in touch or contribute.
-
-## Contact
-
-Provide contact information or links to your social media profiles, GitHub repository, or personal website.
-
-Replace "Project Title" with the title of your project and fill in the sections with the relevant details. This template should help you create a comprehensive README file for your project.
-
-
-
-
-
-
-
 The code is capable of running in both development and production environments.
 
 ## Getting Started
