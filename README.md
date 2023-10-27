@@ -2,6 +2,8 @@
 ## Live Website View: 
 https://hidden-ridge-03010-2e2246d75af4.herokuapp.com/
 
+<img width="1507" alt="Screenshot 2023-10-27 at 4 09 45 AM" src="https://github.com/ueharaneal/What-Did-I-Do-Wrong-Survey-Application/assets/79432460/388ed47e-eac2-499d-96e3-3a2c8fc638b4">
+
 
 
 
