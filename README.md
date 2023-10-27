@@ -39,8 +39,51 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 **What Did I Do Wrong?** simplifies the process of collecting and managing customer feedback, whether you're a small business owner or an individual looking to gain valuable insights. Start using **What Did I Do Wrong?** today and unlock the potential for growth and improvement in your services.
 
 ## Technologies Used
-The project utilizes several technologies:
-- [List the technologies used, e.g., React, Express, Sendgrid, Redux, etc.]
+
+- **React**: To create the front-end/client side. 
+- **MongoDB**: A NoSQL database I used, for storing and managing the email recipeints, sureveys and survey responses.
+- **Express**: To help build the server side of the application.
+- **Node.js**: A JavaScript runtime environment for server-side development.
+- **Heroku**: A cloud platform to deployand host this web application.
+- **Redux**: A state management library for handling application state.
+- **Passport.js**: Authentication middleware for Node.js.
+- **Google OAuth**: OAuth 2.0 authentication for Google users.
+- **Stripe**: A payment processing platform for online transactions.
+- **SendGrid**: A cloud-based email delivery service to send survey emails.
+- **Materialize**: A responsive front-end framework for styling web applications.
+
+## Installation
+
+Provide instructions on how to install and run your project. Include any prerequisites or dependencies that need to be installed.
+
+## Usage
+
+Explain how to use your application or any special considerations for users. Include screenshots or examples if applicable.
+
+## Development
+
+If your project is open-source or you want to guide other developers, you can provide instructions on how to set up the development environment and contribute to the project.
+
+## License
+
+Indicate the license under which your project is released. For example, if it's open-source, you can use the MIT License, Apache License, or another license of your choice.
+
+## Contributors
+
+Mention the contributors or authors of the project, and how others can get in touch or contribute.
+
+## Contact
+
+Provide contact information or links to your social media profiles, GitHub repository, or personal website.
+
+Replace "Project Title" with the title of your project and fill in the sections with the relevant details. This template should help you create a comprehensive README file for your project.
+
+
+
+
+
+
+
 The code is capable of running in both development and production environments.
 
 ## Getting Started
@@ -61,13 +104,10 @@ The code is capable of running in both development and production environments.
 ## Survey Forms
 - Redux Form is used to handle survey forms.
 - We implement true/false component-level states to toggle routing visibility for components like SurveyFormReview.
-- We also learned about persisted form values and how to manage form values.
+- Learned about persisted form values and how to manage form values.
 
 ## Web Hooks and Local Environment
 - We use feedback with web hooks and leverage the local tunnel API for handling web hooks in our local development environment.
-
-## MongoDB and Data Handling
-- We have control over which documents to include or exclude in MongoDB.
 
 ## Troubleshooting
 - In case you encounter errors, consider removing ad blockers or other potential issues.
