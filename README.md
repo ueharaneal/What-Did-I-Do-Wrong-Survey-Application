@@ -76,7 +76,7 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 
 4. **Send Surveys:**
    - After creating a survey, click the "Send" button.
-   - [Your Project Name] will send the survey to the recipients.
+   - WDIDW will send the survey to the recipients.
 
 5. **Collect Responses:**
    - Recipients will receive the survey and can respond with "yes" or "no" to your customized prompts.
