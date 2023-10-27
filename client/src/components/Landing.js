@@ -19,17 +19,23 @@ const Landing = () => {
       marginBottom: '10px',
       textAlign: 'left',
     };
+    const paragraphStyleCenter = {
+      fontSize: '18px',
+      lineHeight: '1.5',
+      marginBottom: '10px',
+      
+    };
   
     return (
       <div style={containerStyle}>
         <h1 style={headingStyle}>Welcome to WDIDW</h1>
-        <p style={paragraphStyle}>Collect valuable feedback from your users.</p>
+        <p style={paragraphStyleCenter}>Collect valuable feedback from your users.</p>
         <h2 style={headingStyle}>About</h2>
-        <p style={paragraphStyle}>
+        <p style={paragraphStyleCenter}>
           WDIDW is a platform for gathering feedback to help you improve your products and services.
         </p>
         <h2 style={headingStyle}>Quick Start</h2>
-        <p style={paragraphStyle}>Get started in five easy steps:</p>
+        <p style={paragraphStyleCenter}><strong>Get started in five easy steps:</strong></p>
         <ol style={{ textAlign: 'left', margin: '0 auto', maxWidth: '400px' }}>
           <li style={paragraphStyle}>Sign up for an account.</li>
           <li style={paragraphStyle}>Click the red button on bottom right corner</li>
