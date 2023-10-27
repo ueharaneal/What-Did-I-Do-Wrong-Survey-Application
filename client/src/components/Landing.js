@@ -31,23 +31,46 @@ const Landing = () => {
         <p style={paragraphStyle}>Get started in three easy steps:</p>
         <ol style={{ textAlign: 'left', margin: '0 auto', maxWidth: '400px' }}>
           <li style={paragraphStyle}>Sign up for an account.</li>
-          <li style={paragraphStyle}>Create a survey.</li>
+          <li style={paragraphStyle}>Buy/add credits (refer to readMe.md)</li>
+          <li style={paragraphStyle}>Create a survey and add email recipients.</li>
           <li style={paragraphStyle}>Collect and analyze feedback.</li>
         </ol>
         <h2 style={headingStyle}>How I Created It</h2>
         <p style={paragraphStyle}>
           React: To create the front-end/client side.
-          MongoDB: A NoSQL database used for storing and managing email recipients, surveys, and survey responses.
-          Express: Used to help build the server side of the application.
-          Node.js: A JavaScript runtime environment for server-side development.
-          Heroku: A cloud platform used to deploy and host the web application.
-          Redux: A state management library for handling application state.
-          Passport.js: Authentication middleware for Node.js.
-          Google OAuth: OAuth 2.0 authentication for Google users.
-          Stripe: A payment processing platform for online transactions.
-          SendGrid: A cloud-based email delivery service used to send survey emails.
-          Materialize: A responsive front-end framework for styling web applications.
         </p>
+        <p style={paragraphStyle}>
+          Redux: A state management library for handling application state.
+        </p>
+        
+        <p style={paragraphStyle}>
+          MongoDB: A NoSQL database used for storing and managing email recipients, surveys, and survey responses.
+        </p>
+        <p style={paragraphStyle}>
+          Express: Used to help build the server side of the application.
+        </p>
+        <p style={paragraphStyle}>
+          Node.js: A JavaScript runtime environment for server-side development.
+        </p>
+        <p style={paragraphStyle}>
+          Materialize: A responsive front-end framework to style this web application.
+        </p>
+        <p style={paragraphStyle}>
+          Passport.js: Authentication middleware for Node.js.
+        </p>
+        <p style={paragraphStyle}>
+          Heroku: A cloud platform used to deploy and host the web application.
+        </p>
+        <p style={paragraphStyle}>
+          Google OAuth: OAuth 2.0 authentication for Google users.
+        </p>
+        <p style={paragraphStyle}>
+          Stripe: A payment processing platform for online transactions.
+        </p>
+        <p style={paragraphStyle}>
+          SendGrid: A cloud-based email delivery service used to send survey emails.
+        </p>
+        
         <div className="fixed-action-btn">
           <Link to="/surveys/new" className="btn-floating btn-large red">
             <i className="material-icons">add</i>
