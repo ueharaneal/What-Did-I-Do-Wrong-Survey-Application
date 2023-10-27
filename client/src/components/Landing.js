@@ -36,7 +36,17 @@ const Landing = () => {
         </ol>
         <h2 style={headingStyle}>How I Created It</h2>
         <p style={paragraphStyle}>
-          Learn about the technology and tools used to build WDIDW.
+          React: To create the front-end/client side.
+          MongoDB: A NoSQL database used for storing and managing email recipients, surveys, and survey responses.
+          Express: Used to help build the server side of the application.
+          Node.js: A JavaScript runtime environment for server-side development.
+          Heroku: A cloud platform used to deploy and host the web application.
+          Redux: A state management library for handling application state.
+          Passport.js: Authentication middleware for Node.js.
+          Google OAuth: OAuth 2.0 authentication for Google users.
+          Stripe: A payment processing platform for online transactions.
+          SendGrid: A cloud-based email delivery service used to send survey emails.
+          Materialize: A responsive front-end framework for styling web applications.
         </p>
         <div className="fixed-action-btn">
           <Link to="/surveys/new" className="btn-floating btn-large red">
