@@ -2,7 +2,8 @@
 ## Live Website View: 
 https://hidden-ridge-03010-2e2246d75af4.herokuapp.com/
 
-![Uploading Screenshot 2023-10-27 at 3.11.37 AM.png…]()
+<img width="1507" alt="Screenshot 2023-10-27 at 3 11 37 AM" src="https://github.com/ueharaneal/What-Did-I-Do-Wrong-Survey-Application/assets/79432460/0b5bfd12-f976-47b4-a057-bb24f6ba39f3">
+
 
 
 # Quickstart
