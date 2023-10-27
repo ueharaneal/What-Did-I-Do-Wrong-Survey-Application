@@ -39,9 +39,19 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 **What Did I Do Wrong?** simplifies the process of collecting and managing customer feedback, whether you're a small business owner or an individual looking to gain valuable insights. Start using **What Did I Do Wrong?** today and unlock the potential for growth and improvement in your services.
 
 ## Technologies Used
-The project utilizes several technologies:
-- [List the technologies used, e.g., React, Express, Sendgrid, Redux, etc.]
-The code is capable of running in both development and production environments.
+
+- **React**: To create the front-end/client side. 
+- **MongoDB**: A NoSQL database I used, for storing and managing the email recipients, surveys, and survey responses.
+- **Express**: To help build the server side of the application.
+- **Node.js**: A JavaScript runtime environment for server-side development.
+- **Heroku**: A cloud platform to deploy and host this web application.
+- **Redux**: A state management library for handling application state.
+- **Passport.js**: Authentication middleware for Node.js.
+- **Google OAuth**: OAuth 2.0 authentication for Google users.
+- **Stripe**: A payment processing platform for online transactions.
+- **SendGrid**: A cloud-based email delivery service to send survey emails.
+- **Materialize**: A responsive front-end framework for styling web applications.
+
 
 ## Getting Started
 [Provide instructions or links for users to get started with your project, e.g., installation and setup steps.]
@@ -61,7 +71,7 @@ The code is capable of running in both development and production environments.
 ## Survey Forms
 - Redux Form is used to handle survey forms.
 - We implement true/false component-level states to toggle routing visibility for components like SurveyFormReview.
-- We also learned about persisted form values and how to manage form values.
+- We also learned about persistent form values and how to manage form values.
 
 ## Web Hooks and Local Environment
 - We use feedback with web hooks and leverage the local tunnel API for handling web hooks in our local development environment.
