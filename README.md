@@ -81,6 +81,8 @@ Welcome to **What Did I Do Wrong?**, a powerful survey application designed to p
 5. **Collect Responses:**
    - Recipients will receive the survey and can respond with "yes" or "no" to your customized prompts.
    - All survey responses will be collected and saved for your review.
+     <img width="1228" alt="Screenshot 2023-10-27 at 7 14 36 AM" src="https://github.com/ueharaneal/What-Did-I-Do-Wrong-Survey-Application/assets/79432460/62113453-9cd6-4b88-aaed-54b101aa1a9f">
+
 
 6. **View Summary:**
    - Navigate to the summary page to see an overview of survey responses and data.
